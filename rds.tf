@@ -28,7 +28,7 @@ resource "aws_vpc" "tfgoofdbvpc" {
     enable_dns_hostnames = true
     enable_dns_support = true
 tags = {
-    Owner = var.owner
+    # Owner = var.owner
   }
 }
 

@@ -1,0 +1,13 @@
+{
+  "name": "se-fix-cloud-issues-demo",
+  "push": [
+    {
+      "custom_rules_id": "828ab8b3-42c0-4fcc-bcba-26b1961ffa16",
+      "organization_id": "e4f1aaec-ce69-479f-987c-5bed92f7b1a8"
+    },
+    {
+      "custom_rules_id": "a62d5153-8cc7-4601-9fa6-d19647fea87b",
+      "organization_id": "0463d230-219f-4623-bfa2-8b3a79bcb09b"
+    }
+  ]
+}
